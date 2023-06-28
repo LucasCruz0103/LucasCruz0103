@@ -7,7 +7,7 @@
 - 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 24 anos e sou do Rio de Janeiro!
-- 📚 Estudante em formação fullStack
+- 📚 Formado em Desenvolvedor full stack , pela Kenzie Academy Brasil.
 
 ##
 
