@@ -4,7 +4,7 @@
 
 <img  align="right" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
 
-- 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
+- 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor fullstack.
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 24 anos e sou do Rio de Janeiro!
 - 📚 Formado em Desenvolvedor full stack , pela Kenzie Academy Brasil.
